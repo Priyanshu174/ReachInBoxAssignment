@@ -14,7 +14,7 @@ function Login() {
   }
   const handleGoogleLogin = () => {
     // Redirect to Google login URL
-    window.location.href = "https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://priyanshu-reach-in-box-ai-assignment.vercel.app/";
+    window.location.href = "https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reach-in-box-assignment-ruby.vercel.app/";
   };
   
   return (
